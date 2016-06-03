@@ -20,7 +20,6 @@ public class TestController {
     @ResponseBody
     public ModelAndView test(Model model){
 
-
         int age = testService.insertName(2);
         model.addAttribute("age", age);
         return new ModelAndView("ok");
