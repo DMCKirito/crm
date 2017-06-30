@@ -161,7 +161,7 @@
   </dependencies>
 
   <build>
-    <finalName>Kirito-crm</finalName>
+    <finalName>Kirito-cm</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
